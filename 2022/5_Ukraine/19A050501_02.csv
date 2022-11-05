@@ -1,0 +1,609 @@
+"Distribution of the population of Ukraine`s regions by native language"
+"by Region, Indicated as a native language, Year and Contents"
+
+" "	" "	"2001(05.12)"
+" "	" "	"Share in the total population of the region, %"
+"Ukraina"
+" "	"Total"	100.00
+" "	"Ukrainian"	67.53
+" "	"Russian"	29.59
+" "	"Belarusian"	0.12
+" "	"Bulgarian"	0.28
+" "	"Armenian"	0.11
+" "	"Gagauz"	0.05
+" "	"Crimean Tatar"	0.48
+" "	"Moldavian"	0.38
+" "	"German"	0.01
+" "	"Polish"	0.04
+" "	"Romani"	0.05
+" "	"Romanian"	0.30
+" "	"Slovak"	0.01
+" "	"Hungarian"	0.34
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.01
+" "	"Greek"	0.01
+" "	"other language"	0.30
+" "	"did not indicated"	0.42
+"Avtonomna Respublika Krym"
+" "	"Total"	100.00
+" "	"Ukrainian"	10.02
+" "	"Russian"	76.55
+" "	"Belarusian"	0.26
+" "	"Bulgarian"	0.02
+" "	"Armenian"	0.23
+" "	"Gagauz"	0.01
+" "	"Crimean Tatar"	11.33
+" "	"Moldavian"	0.06
+" "	"German"	0.01
+" "	"Polish"	0.01
+" "	"Romani"	0.06
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.00
+" "	"Greek"	0.03
+" "	"other language"	1.00
+" "	"did not indicated"	0.39
+"Vinnytska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	94.81
+" "	"Russian"	4.74
+" "	"Belarusian"	0.06
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.04
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.10
+" "	"German"	0.00
+" "	"Polish"	0.01
+" "	"Romani"	0.03
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.09
+" "	"did not indicated"	0.11
+"Volynska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	97.26
+" "	"Russian"	2.51
+" "	"Belarusian"	0.11
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.02
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.02
+" "	"German"	0.00
+" "	"Polish"	0.01
+" "	"Romani"	0.00
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.05
+" "	"did not indicated"	-
+"Dnipropetrovska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	67.00
+" "	"Russian"	31.91
+" "	"Belarusian"	0.18
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.17
+" "	"Gagauz"	0.01
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.05
+" "	"German"	0.01
+" "	"Polish"	0.01
+" "	"Romani"	0.07
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.27
+" "	"did not indicated"	0.30
+"Donetska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	24.10
+" "	"Russian"	74.92
+" "	"Belarusian"	0.10
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.13
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.02
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.04
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.00
+" "	"Greek"	0.09
+" "	"other language"	0.38
+" "	"did not indicated"	0.18
+"Zhytomyrska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	93.02
+" "	"Russian"	6.57
+" "	"Belarusian"	0.10
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.03
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.05
+" "	"German"	0.01
+" "	"Polish"	0.05
+" "	"Romani"	0.03
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.08
+" "	"did not indicated"	0.03
+"Zakarpatska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	81.00
+" "	"Russian"	2.90
+" "	"Belarusian"	0.05
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.02
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.03
+" "	"German"	0.15
+" "	"Polish"	0.01
+" "	"Romani"	0.24
+" "	"Romanian"	2.57
+" "	"Slovak"	0.21
+" "	"Hungarian"	12.65
+" "	"Karaim"	-
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.14
+" "	"did not indicated"	0.02
+"Zaporizka oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	50.20
+" "	"Russian"	48.19
+" "	"Belarusian"	0.11
+" "	"Bulgarian"	0.47
+" "	"Armenian"	0.19
+" "	"Gagauz"	0.01
+" "	"Crimean Tatar"	0.02
+" "	"Moldavian"	0.04
+" "	"German"	0.01
+" "	"Polish"	0.00
+" "	"Romani"	0.07
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.01
+" "	"Greek"	0.01
+" "	"other language"	0.59
+" "	"did not indicated"	0.07
+"Ivano-Frankivska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	97.81
+" "	"Russian"	1.78
+" "	"Belarusian"	0.05
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.01
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.03
+" "	"German"	0.00
+" "	"Polish"	0.03
+" "	"Romani"	0.01
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.04
+" "	"did not indicated"	0.22
+"Kyivska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	92.27
+" "	"Russian"	7.17
+" "	"Belarusian"	0.17
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.08
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.04
+" "	"German"	0.00
+" "	"Polish"	0.01
+" "	"Romani"	0.03
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.13
+" "	"did not indicated"	0.08
+"Kirovohradska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	88.89
+" "	"Russian"	10.02
+" "	"Belarusian"	0.16
+" "	"Bulgarian"	0.05
+" "	"Armenian"	0.20
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.44
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.05
+" "	"Romanian"	0.01
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.15
+" "	"did not indicated"	0.00
+"Luhanska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	30.01
+" "	"Russian"	68.84
+" "	"Belarusian"	0.11
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.12
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.03
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.05
+" "	"Romanian"	0.00
+" "	"Slovak"	-
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.27
+" "	"did not indicated"	0.55
+"Lvivska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	95.32
+" "	"Russian"	3.77
+" "	"Belarusian"	0.07
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.02
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.02
+" "	"German"	0.00
+" "	"Polish"	0.41
+" "	"Romani"	0.01
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.06
+" "	"did not indicated"	0.28
+"Mykolaivska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	69.20
+" "	"Russian"	29.26
+" "	"Belarusian"	0.13
+" "	"Bulgarian"	0.13
+" "	"Armenian"	0.19
+" "	"Gagauz"	0.03
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.58
+" "	"German"	0.01
+" "	"Polish"	0.01
+" "	"Romani"	0.05
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.29
+" "	"did not indicated"	0.10
+"Odeska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	46.28
+" "	"Russian"	41.95
+" "	"Belarusian"	0.11
+" "	"Bulgarian"	4.87
+" "	"Armenian"	0.16
+" "	"Gagauz"	0.90
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	3.78
+" "	"German"	0.01
+" "	"Polish"	0.01
+" "	"Romani"	0.10
+" "	"Romanian"	0.01
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.02
+" "	"Greek"	0.02
+" "	"other language"	0.46
+" "	"did not indicated"	1.32
+"Poltavska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	89.98
+" "	"Russian"	9.47
+" "	"Belarusian"	0.12
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.10
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.09
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.04
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.02
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.16
+" "	"did not indicated"	-
+"Rivnenska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	97.00
+" "	"Russian"	2.73
+" "	"Belarusian"	0.12
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.01
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.02
+" "	"German"	0.00
+" "	"Polish"	0.02
+" "	"Romani"	0.01
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.06
+" "	"did not indicated"	0.02
+"Sumska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	83.29
+" "	"Russian"	15.50
+" "	"Belarusian"	0.11
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.06
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.03
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.05
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.11
+" "	"did not indicated"	0.83
+"Ternopilska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	98.34
+" "	"Russian"	1.19
+" "	"Belarusian"	0.03
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.01
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.02
+" "	"German"	0.00
+" "	"Polish"	0.03
+" "	"Romani"	0.00
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.04
+" "	"did not indicated"	0.31
+"Kharkivska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	53.80
+" "	"Russian"	44.29
+" "	"Belarusian"	0.12
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.18
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.03
+" "	"German"	0.00
+" "	"Polish"	0.01
+" "	"Romani"	0.05
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.49
+" "	"did not indicated"	1.00
+"Khersonska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	73.19
+" "	"Russian"	24.86
+" "	"Belarusian"	0.18
+" "	"Bulgarian"	0.02
+" "	"Armenian"	0.26
+" "	"Gagauz"	0.01
+" "	"Crimean Tatar"	0.07
+" "	"Moldavian"	0.15
+" "	"German"	0.01
+" "	"Polish"	0.01
+" "	"Romani"	0.08
+" "	"Romanian"	0.01
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.98
+" "	"did not indicated"	0.17
+"Khmelnytska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	95.24
+" "	"Russian"	4.09
+" "	"Belarusian"	0.06
+" "	"Bulgarian"	0.00
+" "	"Armenian"	0.06
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.05
+" "	"German"	0.00
+" "	"Polish"	0.18
+" "	"Romani"	0.02
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.01
+" "	"Greek"	0.00
+" "	"other language"	0.24
+" "	"did not indicated"	0.04
+"Cherkaska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	92.49
+" "	"Russian"	6.66
+" "	"Belarusian"	0.09
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.09
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	-
+" "	"Moldavian"	0.06
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.05
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.12
+" "	"did not indicated"	0.41
+"Chernivetska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	75.57
+" "	"Russian"	5.27
+" "	"Belarusian"	0.05
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.02
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	6.79
+" "	"German"	0.01
+" "	"Polish"	0.16
+" "	"Romani"	0.01
+" "	"Romanian"	11.85
+" "	"Slovak"	-
+" "	"Hungarian"	0.01
+" "	"Karaim"	-
+" "	"Hebrew"	0.03
+" "	"Greek"	0.00
+" "	"other language"	0.10
+" "	"did not indicated"	0.13
+"Chernihivska oblast"
+" "	"Total"	100.00
+" "	"Ukrainian"	89.05
+" "	"Russian"	10.26
+" "	"Belarusian"	0.19
+" "	"Bulgarian"	0.01
+" "	"Armenian"	0.04
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.02
+" "	"German"	0.00
+" "	"Polish"	0.00
+" "	"Romani"	0.04
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	-
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.07
+" "	"did not indicated"	0.30
+"m. Kyiv"
+" "	"Total"	100.00
+" "	"Ukrainian"	72.15
+" "	"Russian"	25.27
+" "	"Belarusian"	0.12
+" "	"Bulgarian"	0.02
+" "	"Armenian"	0.08
+" "	"Gagauz"	0.00
+" "	"Crimean Tatar"	0.00
+" "	"Moldavian"	0.03
+" "	"German"	0.01
+" "	"Polish"	0.02
+" "	"Romani"	0.01
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.01
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.02
+" "	"Greek"	0.00
+" "	"other language"	0.36
+" "	"did not indicated"	1.92
+"m. Sevastopol"
+" "	"Total"	100.00
+" "	"Ukrainian"	6.76
+" "	"Russian"	90.56
+" "	"Belarusian"	0.17
+" "	"Bulgarian"	0.02
+" "	"Armenian"	0.11
+" "	"Gagauz"	0.01
+" "	"Crimean Tatar"	0.25
+" "	"Moldavian"	0.06
+" "	"German"	0.00
+" "	"Polish"	0.01
+" "	"Romani"	0.00
+" "	"Romanian"	0.00
+" "	"Slovak"	0.00
+" "	"Hungarian"	0.00
+" "	"Karaim"	0.00
+" "	"Hebrew"	0.00
+" "	"Greek"	0.00
+" "	"other language"	0.87
+" "	"did not indicated"	1.18
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" City = misto (m.)"
+
