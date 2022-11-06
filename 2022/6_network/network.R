@@ -16,7 +16,7 @@ road <- read_sf("ne_10m_roads/ne_10m_roads.shp")
 bg = "#D6D5A8"
 txt_col = "#1B2430"
 
-plot <- road %>% 
+plot <- road %>% filter(type != "Ferry Route") %>%
   ggplot()+
   geom_sf(color = txt_col,size=.1) +
   labs(title = "Road Network",
@@ -28,7 +28,9 @@ plot <- road %>%
         axis.ticks = element_blank(),
         plot.margin = margin(t=20,b=10),
         plot.title = element_text(size=70,hjust=.5,margin = margin(b=20)),
-        plot.caption = element_text(size=20),
+        plot.caption = element_text(size=15),
         text = element_text(family = text, color = txt_col))
 
 ggsave("network.png",plot,width = 8, height = 4, dpi=300)
+
+
