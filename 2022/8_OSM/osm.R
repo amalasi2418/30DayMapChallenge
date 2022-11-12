@@ -20,9 +20,9 @@ available_tags("waterway")
 
 available_features()
 
-getbb("Gent, Belgium")
+bbox <- getbb("Gent, Belgium")
 
-streets <- getbb("Gent, Belgium")%>%
+streets <- bbox %>%
   opq()%>%
   add_osm_feature(key = "highway", 
                   value = c("motorway", "primary", 
@@ -30,7 +30,7 @@ streets <- getbb("Gent, Belgium")%>%
   osmdata_sf()
 
 
-small_streets <- getbb("Gent, Belgium")%>%
+small_streets <- bbox %>%
   opq()%>%
   add_osm_feature(key = "highway", 
                   value = c("residential", "living_street",
@@ -39,14 +39,14 @@ small_streets <- getbb("Gent, Belgium")%>%
   osmdata_sf()
 
 
-river <- getbb("Gent Belgium")%>%
+river <- bbox %>%
   opq()%>%
   add_osm_feature(key = "waterway", value = c("river","canal","dock", "weir")) %>%
   osmdata_sf()
 
 
 
-small_river <- getbb("Gent Belgium")%>%
+small_river <- bbox %>%
   opq()%>%
   add_osm_feature(key = "waterway", value = c("soakhole","boatyard","stream")) %>%
   osmdata_sf()
