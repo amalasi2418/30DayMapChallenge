@@ -20,7 +20,7 @@ plot <- df %>%
   geom_sf(aes(fill=population),color=bg) +
   labs(title="Grand Duchy of Luxembourg",
        caption = "Source: Kontur Population Dataset | Graphic: Abhinav Malasi",
-       fill="Population\n(400m H3 Hexagons)") +
+       fill="Population density\n(400m H3 Hexagons)") +
   viridis::scale_fill_viridis(option = "D", 
                               trans = "pseudo_log",  
                               breaks = c(1,65, 650, 6500),
