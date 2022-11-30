@@ -22,6 +22,7 @@ sphere_graticules <- st_graticule(ndiscr = 10000, margin = 10e-6) %>%
   st_convex_hull() %>%
   summarise(geometry = st_union(geometry))
 
+
 bg = "#eeeeee"
 txt_col = "#141414"
 
@@ -30,7 +31,7 @@ plot <- ggplot() +
   geom_sf(data = ports,size = 0.002, color = bg,alpha = 0.75)+
   coord_sf(crs = crs) +
   labs(title = "SEA PORTS",
-    subtitle = "Each dot is a sea port",
+    subtitle = "A dot = a sea port",
     caption = "Source: OpenStreetMap | Graphic: Abhinav Malasi") +
   theme(plot.background = element_rect(color = bg, fill = bg),
         panel.background = element_rect(color = bg, fill = bg),
